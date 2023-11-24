@@ -1,5 +1,3 @@
-# requirements:
-# pip install adbutils pycryptodome
 import base64
 import json
 import re
